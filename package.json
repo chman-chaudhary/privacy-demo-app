@@ -7,6 +7,11 @@
     "mixpanel-browser": "^2.45.0",
     "firebase": "^10.0.0",
     "axios": "^1.13.5",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "lodash": "^4.17.21",
+    "shelljs": "^0.8.5",
+    "cookie-parser": "^1.4.6",
+    "chalk": "^5.0.0",
+    "serialize-javascript": "^6.0.0"
   }
 }
